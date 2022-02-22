@@ -11,7 +11,7 @@ fullName: `Fima Treiger`,
   tools: [React, Redux, PostgreSQL, Node],
   education: ["Developers Institute bootcamp", "Odin-Project", "EdxCS50"],
   goals: {
-            finish: "Bootcamp",
+            create: "Projects",
             learn: "Data Structures and Algorithms",
             get: "Job"
          },

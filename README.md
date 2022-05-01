@@ -9,7 +9,7 @@ let fima = {
 fullName: `Fima Treiger`,
  code: [Javascript, HTML, CSS],
   tools: [React, Redux, PostgreSQL, Node],
-  education: ["Developers Institute bootcamp", "Odin-Project", "EdxCS50"],
+  education: ["Developers Institute bootcamp", "Odin-Project", "EdxCS50", "ThriveDX Bootcamp"],
   goals: {
             create: "Projects",
             learn: "Data Structures and Algorithms",

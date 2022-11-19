@@ -13,7 +13,7 @@ fullName: `Fima Treiger`,
   goals: {
             create: "Projects",
             learn: "Data Structures and Algorithms",
-            get: "Job"
+            gain: "Experience"
          },
  // Never give up
  }
